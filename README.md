@@ -65,7 +65,7 @@ As the PIR sensor, we noticed frequent detections that can’t be comparable wit
 See below the objective of the experiment and the script structure we created.
 
 
-##Python Script running on the ISS
+## Python Script running on the ISS
 *************************************************************************************************************
 *************************************************************************************************************
 *************************************************************************************************************
