@@ -14,7 +14,7 @@ Through Pandas and MathPlotLib Python libraries, we analysed data we captured on
 Our script edited a csv file with 50808 samples of the acceleration along the three-axis.
 
 We analysed:
-a) the acceleration profile (see AstropiAnalisys.ipynb and AstropiAnalisys.py)
+a) the acceleration profile (see AstropiAnalisys.ipynb and AstropiAnalisys.py)/r/n
 b) the ISS Elevation profile through Skyfield tool (see ElevationProfile.ipynb and Elevation.py)
 c) the PIR sensor activation (see MotionPlot.py)
 
