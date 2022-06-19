@@ -1,6 +1,6 @@
 # RedsTeam_AstroPi22
 
-*"Gravitation is not responsible for people falling in love"        Albert Einstein*
+*"Gravitation is not responsible for people falling in love"    -    Albert Einstein*
 
 
 
@@ -14,9 +14,12 @@ Through Pandas and MathPlotLib Python libraries, we analysed data we captured on
 Our script edited a csv file with 50808 samples of the acceleration along the three-axis.
 
 We analysed:
-a) the acceleration profile (see AstropiAnalisys.ipynb and AstropiAnalisys.py)/r/n
+a) the acceleration profile (see AstropiAnalisys.ipynb and AstropiAnalisys.py)
+
 b) the ISS Elevation profile through Skyfield tool (see ElevationProfile.ipynb and Elevation.py)
+
 c) the PIR sensor activation (see MotionPlot.py)
+
 
 As the point a), from all the samples, we isolated only the peaks in the intensity of the acceleration profile in order to study the cause of these peaks (vibrations, re,-boosting of the ISS and so on).
 
