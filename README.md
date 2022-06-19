@@ -1,4 +1,4 @@
-# RedsTeam_AstroPi_2021_2022
+# RedsTeam_AstroPi_2021_2022: Microgravity effect verification
 
 *"Gravitation is not responsible for people falling in love"    -    Albert Einstein*
 
