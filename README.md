@@ -1,4 +1,4 @@
-# RedsTeam_AstroPi22
+# RedsTeam_AstroPi_2021_2022
 
 *"Gravitation is not responsible for people falling in love"    -    Albert Einstein*
 
@@ -65,7 +65,7 @@ As the PIR sensor, we noticed frequent detections that can’t be comparable wit
 See below the objective of the experiment and the script structure we created.
 
 
-
+##Python Script running on the ISS
 *************************************************************************************************************
 *************************************************************************************************************
 *************************************************************************************************************
