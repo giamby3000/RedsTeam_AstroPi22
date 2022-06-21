@@ -6,6 +6,8 @@ This is a collection of material used by our team to analyse data captured on th
 
 Through Pandas and MathPlotLib Python libraries, we analysed data we captured on the ISS on Monday 18 April 2022.
 
+This material requires Jupyter Notebook and Python.
+
 Our script edited a csv file with 50808 samples of the acceleration along the three-axis (see *RedsTeamDataLogSamplesOriginal.csv*).
 
 Each sample consists of different data
